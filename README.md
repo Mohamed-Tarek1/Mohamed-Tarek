@@ -22,8 +22,8 @@
 |     5| mySQL|
 </details>
 
-mermaid
-,,,
+```mermaid
+
 graph TD;
     TopTechnologies-->Java;
 		Java-->SpringBoot;
@@ -41,3 +41,4 @@ graph TD;
 		Android-->Room;
 		Android-->XML;
 		Flutter-->Dart;
+```		
