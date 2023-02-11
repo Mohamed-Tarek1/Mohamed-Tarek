@@ -1,5 +1,5 @@
 # Hi,I'm MohamedTarek👋
-## A software enginner with a great ambition and a passion for learning
+## A software engineer with a great ambition and a passion for learning
 > From Egypt,Cairo
 
 📫 To mail me :- mohamedana17327@gmail.com
