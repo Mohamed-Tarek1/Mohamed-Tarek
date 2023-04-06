@@ -1,6 +1,10 @@
 # Hi,I'm MohamedTarek👋
-## A software engineer with a great ambition and a passion for learning
+## Junior software engineer with a great ambition and a passion for learning
 > From Egypt,Cairo
+### I've a good experience with programming specially in web development using Spring boot framework
+#### Dealt with many other technologies like Moblie Development :- 
+#### - [Native using (Android Java & Kotlin)]  .
+#### - [Cross platform apps using (Flutter with Dart )] .  
 
 📫 To mail me :- mohamedana17327@gmail.com
 
